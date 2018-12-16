@@ -1,0 +1,7 @@
+C:\Users\IA\miramar\3floor\ebab_mbinsmenu0.png
+C:\Users\IA\miramar\3floor\ebab_mbinsmenu0_d.png
+C:\Users\IA\miramar\3floor\ebab_mbinsmenu0_c.png
+C:\Users\IA\miramar\3floor\ebab_mbinsmenu0_c2.png
+C:\Users\IA\miramar\3floor\mbjsmbinsmenu0.js
+C:\Users\IA\miramar\3floor\mbcsmbinsmenu0.css
+C:\Users\IA\miramar\3floor\filelist_vkg3.txt
